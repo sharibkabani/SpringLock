@@ -33,3 +33,9 @@ build/
 .vscode/
 
 .env
+.DS_Store
+
+/src/main/test/
+mvnw.cmd
+mvnw
+
